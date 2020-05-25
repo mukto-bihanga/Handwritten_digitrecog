@@ -1,4 +1,4 @@
-# Handwritten_digitrecog
+# Handwritten Digit Recognizer
 Detection of handwritten digits using deep learning, it uses the image of a digit and recognizes the digit present in the image.
 
 ## MNIST dataset
